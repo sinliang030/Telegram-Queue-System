@@ -1,0 +1,19 @@
+# Python cache and build files
+__pycache__/
+*.pyc
+
+# Environment variables / local credentials
+.env
+
+# Virtual environments
+venv/
+.venv/# Python cache and build files
+__pycache__/
+*.pyc
+
+# Environment variables / local credentials
+.env
+
+# Virtual environments
+venv/
+.venv/
