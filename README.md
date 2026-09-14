@@ -39,8 +39,8 @@ Make sure you have **Python 3.10+** installed on your system.
 
 ### 2. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone [https://github.com/sinliang030/Telegram-Queue-System.git](https://github.com/sinliang030/Telegram-Queue-System.git)
+cd Telegram-Queue-System
 3. Install Dependencies
 Install the required version of python-telegram-bot:
 
@@ -51,17 +51,13 @@ Open your script and update the configuration section at the top with your crede
 
 Python
 BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"   # Get this from @BotFather on Telegram
-ADMIN_IDS = {123456789}             # Replace with your Telegram user ID (as an integer)
+ADMIN_IDS = {123456789}             # Replace with your Telegram user ID (as an integer) Get this from @Userinfokbot on Telegram
 🚀 Running the Bot
 Start your bot by running the Python script:
 
 Bash
 python queue_bot.py
 You should see log output indicating that the bot has started polling for updates.
-
-📜 License
-This project is open-source and available under the MIT License.
-
 
 ---
 
