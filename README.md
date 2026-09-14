@@ -60,8 +60,3 @@ python queue_bot.py
 You should see log output indicating that the bot has started polling for updates.
 
 ---
-
-<Elicitations message="Would you like to add anything else to this README, such as a Badges section, Docker deployment steps, or contribution guidelines?">
-  <Elicitation label="Add Docker support" query="How can I containerize this Telegram queue bot using Docker and Docker Compose?"/>
-  <Elicitation label="Add build/license badges" query="How do I add status badges and a license badge to the top of my README?"/>
-</Elicitations>
